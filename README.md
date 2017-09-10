@@ -6,5 +6,5 @@
 ![img](https://i.imgur.com/7gbJlL3.jpg)
 * Tick chọn vào chế độ <b>Develop mode</b> sau đó chọn <b>Load unpacked extension...</b>
 ![img](http://i.imgur.com/2t3csi3.jpg)
-* Load Forder thư mục mới tải về và giải nén sau đó nhấn ok
+* Khi bảng này hiện ra thì chọn forder thư mục mới tải về và giải nén sau đó nhấn ok
 ![img](https://i.imgur.com/7ac6eiz.jpg)
