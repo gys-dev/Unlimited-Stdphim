@@ -8,4 +8,6 @@
 ![img](http://i.imgur.com/2t3csi3.jpg)
 * Khi bảng này hiện ra thì chọn forder thư mục mới tải về và giải nén sau đó nhấn ok
 ![img](https://i.imgur.com/7ac6eiz.jpg)
+## Với trình duyệt Cốc Cốc
+
 ## Với trình duyệt cốc cốc hay những trình duyệt cùng nhân chrome khác thì vẫn làm tương tự. Mọi thắc mắc giải đáp vui lòng gửi về tại [đây](https://www.facebook.com/Tranducy1999) (ib me)
