@@ -12,3 +12,4 @@
 Ở bước 1 sẽ khác với chrome một tí. Các bước còn lại không có gì thay đổi. 
 ![img](https://i.imgur.com/VtAliQL.png)
 ## Với những trình duyệt cùng mã nguồn chrome khác thì vẫn làm tương tự. Mọi thắc mắc giải đáp vui lòng gửi về tại [đây](https://www.facebook.com/Tranducy1999) (ib me)
+Update: studyphim đã thay đổi thuật toán. Tiện ích không hoạt động nữa.
